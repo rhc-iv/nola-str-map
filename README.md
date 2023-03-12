@@ -1,32 +1,29 @@
-<h1 align="center">Welcome to New Orleans Short-Term Rental Maps 👋</h1>
-<p>
+<h1 align="center">📍 New Orleans Short-Term Rental Maps</h1>
+<p align="center">
   <img alt="Version" src="https://img.shields.io/badge/version-1.10-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/rhc\_iv" target="_blank">
-    <img alt="Twitter: rhc\_iv" src="https://img.shields.io/twitter/follow/rhc\_iv.svg?style=social" />
+  <a href="https://twitter.com/rhc_iv" target="_blank">
+    <img alt="Twitter: rhc_iv" src="https://img.shields.io/twitter/follow/rhc_iv.svg?style=social" />
   </a>
 </p>
 
+### 🛋️ [Homepage](https://github.com/rhc-iv/nola-str-map)
+
 > A project, built in **Python** using `streamlit`, `pandas`, `requests`, and the **New Orleans** public API for its open dataset for short-term rental properties.
 
-### 🏠 [Homepage](https://github.com/rhc-iv/nola-str-map)
+## ⚠️ Heads-Up!
 
-## Install
-
-```sh
-npm install
-```
+As of the most recent changes to the repository, this is a _very_ skeletal app; it lacks much of the functionality that I plan on it having. Whatever files exist in the repo while this message appears are barebones and you will likely see the **Streamlit** framework throw errors!
 
 ## Usage
 
-```sh
-None yet
-```
+- Open `app.py` in the editor/IDE of your choice.
+- Run the application by typing in your terminal: `streamlit run app.py`
 
-## Author
+## 👤 Author
 
-👤 **Robert H. Carr, IV**
+**Robert H. Carr, IV**
 
-* Twitter: [@rhc\_iv](https://twitter.com/rhc\_iv)
+* Twitter: [@rhc\_iv](https://twitter.com/rhc_iv)
 * Github: [@rhc-iv](https://github.com/rhc-iv)
 
 ## 🤝 Contributing
