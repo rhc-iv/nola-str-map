@@ -1,6 +1,6 @@
 <h1 align="center">📍 New Orleans Short-Term Rental Maps</h1>
 <p align="center">
-  <img alt="Version" src="https://img.shields.io/badge/version-1.10-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.10-blue.svg?cacheSeconds=2592000" /><br>
   <a href="https://twitter.com/rhc_iv" target="_blank">
     <img alt="Twitter: rhc_iv" src="https://img.shields.io/twitter/follow/rhc_iv.svg?style=social" />
   </a>
